@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.237F14 The City of Athens - Lecture Slides: Panhellenic Athens I: Delphi'
-type: OCWFile
 uid: fe2e87ce-50af-a7fe-a21c-d16d3300be47
 ---

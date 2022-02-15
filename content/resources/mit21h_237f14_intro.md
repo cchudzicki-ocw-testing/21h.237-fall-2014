@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.237F14 The City of Athens - Lecture Slides: Intro'
-type: OCWFile
 uid: bb911235-28eb-a25d-32e2-5e7e92bde206
 ---

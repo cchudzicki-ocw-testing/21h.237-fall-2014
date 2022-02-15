@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.237F14 The City of Athens - Lecture Slides: Panhellenic Athens II: Olympia'
-type: OCWFile
 uid: aebd06ca-0cfd-523d-1a57-6b199be36255
 ---

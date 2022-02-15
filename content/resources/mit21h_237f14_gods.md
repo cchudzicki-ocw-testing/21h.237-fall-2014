@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.237F14 The City of Athens - Lecture Slides: Athenian and Their Gods'
-type: OCWFile
 uid: 73d99b21-6860-b40f-c5ee-a76e2f87b08b
 ---

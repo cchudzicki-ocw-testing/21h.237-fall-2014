@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 21H.237F14 The City of Athens - Research Project Example 1
-type: OCWFile
 uid: be469fa2-4138-dc54-8020-56558f836434
 ---

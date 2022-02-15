@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 21H.237F14 The City of Athens - Response Paper 1
-type: OCWFile
 uid: 99f6fd1b-4e52-84ec-5949-37f8cd7063a5
 ---

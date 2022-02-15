@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.237F14 The City Of Athens - Assignments: Test Info'
-type: OCWFile
 uid: c966fbb9-86f1-a934-e9b6-1cf61214d79f
 ---

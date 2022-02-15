@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.237F14 The City of Athens - Lecture Slides: Greek Domestic Space'
-type: OCWFile
 uid: f2eeb348-7fb0-860c-41f4-fe5c2b9f87e8
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.237F14 The City of Athens - Lecture Slides: Pericles'
-type: OCWFile
 uid: f8459ed9-f26a-91ae-106a-bf2cccbfe543
 ---

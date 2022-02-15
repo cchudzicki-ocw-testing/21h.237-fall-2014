@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.237F14 The City of Athens - Lecture Slides: Athenian Acropolis I'
-type: OCWFile
 uid: fb7aaabd-fa20-7e41-3286-e1afd67a979f
 ---
