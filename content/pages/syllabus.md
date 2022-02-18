@@ -28,7 +28,7 @@ Hurwit, Jeffrey M. _The Acropolis in the Age of Pericles_. Cambridge University 
 
 Samons II, Loren J., ed. _The Cambridge Companion to the Age of Pericles_. Cambridge University Press, 2007. ISBN: 9780521003896. \[Preview with [Google Books](http://books.google.com/books?id=QAePyZ_Z1WkC&pg=PAfrontcover)\]
 
-For additional readings, please see the [Readings]({{< baseurl >}}/pages/readings) section.
+For additional readings, please see the {{< resource_link 535cc74f-6d3d-a9e5-d74a-195c250ab244 "Readings" >}} section.
 
 Online Resources
 ----------------
@@ -115,7 +115,7 @@ Research Project
 
 {{< tableclose >}}
 
-For further detail on the response papers and the research project, please see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For further detail on the response papers and the research project, please see the {{< resource_link 93d37d2e-550f-ba36-82ed-9bfb35927215 "Assignments" >}} section.
 
 The Writing and Communication Center
 ------------------------------------
