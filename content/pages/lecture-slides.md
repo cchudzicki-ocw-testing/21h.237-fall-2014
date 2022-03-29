@@ -27,7 +27,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link bb911235-28eb-a25d-32e2-5e7e92bde206 "Introduction: Space and Society in Ancient Athens (PDF - 1.1MB)" %}}
+{{% resource_link bb911235-28eb-a25d-32e2-5e7e92bde206 "Introduction: Space and Society in Ancient Athens (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +36,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link f8459ed9-f26a-91ae-106a-bf2cccbfe543 "Pericles and the _Polis_ (PDF - 2.4MB)" %}}
+{{% resource_link f8459ed9-f26a-91ae-106a-bf2cccbfe543 "Pericles and the _Polis_ (PDF - 2.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +54,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 73d99b21-6860-b40f-c5ee-a76e2f87b08b "The Athenians and their Gods (PDF - 1.6MB)" %}}
+{{% resource_link 73d99b21-6860-b40f-c5ee-a76e2f87b08b "The Athenians and their Gods (PDF - 1.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +63,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)The Athenian Acropolis I (PDF - 2.5MB)]({{< baseurl >}}/resources/mit21h_237f14_acropolisi)
+[The Athenian Acropolis I (PDF - 2.5MB)]({{< baseurl >}}/resources/mit21h_237f14_acropolisi)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +72,7 @@ TOPICS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 45733ae0-fa77-38d0-596f-36f9bfc32ed5 "The Athenian Acropolis II (PDF - 4.3MB)" %}}
+{{% resource_link 45733ae0-fa77-38d0-596f-36f9bfc32ed5 "The Athenian Acropolis II (PDF - 4.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +81,7 @@ TOPICS
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Greek Domestic Space (PDF - 1.5MB)]({{< baseurl >}}/resources/mit21h_237f14_domestic)
+[Greek Domestic Space (PDF - 1.5MB)]({{< baseurl >}}/resources/mit21h_237f14_domestic)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +92,7 @@ TOPICS
 {{< tdopen >}}
 
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Panhellenic Athens I: Delphi (PDF - 7.1MB)]({{< baseurl >}}/resources/mit21h_237f14_delphi)
+[Panhellenic Athens I: Delphi (PDF - 7.1MB)]({{< baseurl >}}/resources/mit21h_237f14_delphi)
 
 
 {{< tdclose >}}
@@ -105,7 +105,7 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link aebd06ca-0cfd-523d-1a57-6b199be36255 "Panhellenic Athens II: Olympia and the Olympic Games (PDF - 2.9MB)" %}}
+{{% resource_link aebd06ca-0cfd-523d-1a57-6b199be36255 "Panhellenic Athens II: Olympia and the Olympic Games (PDF - 2.9MB)" %}}
 
 
 {{< tdclose >}}
