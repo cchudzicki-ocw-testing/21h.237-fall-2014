@@ -63,7 +63,7 @@ TOPICS
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[The Athenian Acropolis I (PDF - 2.5MB)]({{< baseurl >}}/resources/mit21h_237f14_acropolisi)
+{{% resource_link "fb7aaabd-fa20-7e41-3286-e1afd67a979f" "The Athenian Acropolis I (PDF - 2.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +81,7 @@ TOPICS
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Greek Domestic Space (PDF - 1.5MB)]({{< baseurl >}}/resources/mit21h_237f14_domestic)
+{{% resource_link "f2eeb348-7fb0-860c-41f4-fe5c2b9f87e8" "Greek Domestic Space (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +92,7 @@ TOPICS
 {{< tdopen >}}
 
 
-[Panhellenic Athens I: Delphi (PDF - 7.1MB)]({{< baseurl >}}/resources/mit21h_237f14_delphi)
+{{% resource_link "fe2e87ce-50af-a7fe-a21c-d16d3300be47" "Panhellenic Athens I: Delphi (PDF - 7.1MB)" %}}
 
 
 {{< tdclose >}}
