@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the response papers, in-class test,
+  and research project assigned for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

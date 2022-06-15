@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, required books, online resources, assessment, the
+  Writing and Communications center at MIT, and policies on plagiarism and late submission
+  of papers and projects.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
